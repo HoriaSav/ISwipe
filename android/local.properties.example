@@ -1,0 +1,5 @@
+# Copy to android/local.properties if Android Studio does not create it automatically.
+# Paths below match this machine; adjust sdk.dir if your Android SDK lives elsewhere.
+
+sdk.dir=/home/horia/Android/Sdk
+flutter.sdk=/home/horia/.local/flutter
